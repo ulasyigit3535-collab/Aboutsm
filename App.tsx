@@ -277,7 +277,7 @@ const Leadership = () => {
             </motion.div>
 
             <div className="flex items-center justify-between mt-14">
-              <span className="font-signature text-6xl text-white/50 select-none">A. Omer Yulug</span>
+              <span className="font-signature text-6xl text-white/50 select-none">A. Ömer Yuluğ</span>
             </div>
           </div>
         </div>
@@ -315,7 +315,7 @@ const Footer = () => {
               <span className="text-2xl font-black tracking-tight text-white uppercase">Smart Moles</span>
             </div>
             <p className="text-slate-400 text-lg max-w-sm leading-relaxed font-medium opacity-60">
-              Yuluğ Mühendislik ekosisteminde, Halil Atilla Plaza'daki Ar-Ge merkezimizde yarının tarımı için siber-fiziksel çözümler inşa ediyoruz.
+              SmartMoles, yapay zeka destekli tarımsal çözümleriyle su yönetimini akıllı ve sürdürülebilir hale getirir. Yerli üretim gücüyle toprağı, suyu ve geleceği korur.
             </p>
             <div className="flex items-center gap-4">
               <button className="w-10 h-10 rounded-full border border-white/10 flex items-center justify-center text-slate-500 hover:text-primary transition-all">

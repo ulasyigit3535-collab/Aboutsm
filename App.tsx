@@ -244,9 +244,9 @@ const Leadership = () => {
             <img 
               src="https://smartmoles.com/assets/images/about/growtech-fuar-smartmoles-7.jpg" 
               alt="A. Ömer Yuluğ" 
-              className="absolute inset-0 w-full h-full object-cover grayscale opacity-80"
+              className="absolute inset-0 w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent"></div>
+            <div className="absolute inset-0 bg-gradient-to-t from-black via-black/10 to-transparent"></div>
             <div className="absolute bottom-12 left-12">
               <h4 className="text-4xl font-black text-white mb-2 tracking-tight">A. Ömer Yuluğ</h4>
               <p className="text-primary font-black uppercase tracking-[0.2em] text-[10px]">CEO & KURUCU ORTAK</p>

@@ -132,7 +132,7 @@ const WhoWeAre = () => {
                 <p className="text-[12px] text-slate-400 uppercase tracking-[0.3em] font-black">MİRASIMIZ</p>
               </div>
               <div className="glass-card p-10 rounded-[2.5rem] border-l-8 border-l-primary group">
-                <h4 className="text-5xl font-black text-primary mb-2">%97.34</h4>
+                <h4 className="text-5xl font-black text-primary mb-2">%93.12</h4>
                 <p className="text-[12px] text-slate-400 uppercase tracking-[0.3em] font-black">YERLİ İMKANLAR</p>
               </div>
             </motion.div>
@@ -271,7 +271,7 @@ const Leadership = () => {
                   Bizler 1997'den beri <span className="text-white">Yuluğ Mühendislik</span> çatısı altında Türkiye ve Dünya'nın birçok ülkesinde sulama sistemleri projeleri ve uygulamaları yapan bir ekibiz. Ege Üniversitesi Teknoloji Geliştirme Bölgesinde SmartMoles Su Yönetimi Teknolojisi markasıyla ARGE çalışmalarımızı sürdürüyoruz.
                 </p>
                 <p>
-                  Bu yola çıkış nedenimiz; basınçlı sulama sistemlerinin adeta yüzey sulama yapar gibi kullanılmasındaki sürdürülemez israftır. Bu gidişata dur diyebilmek için geliştirdiğimiz ürünlerimiz, <span className="text-primary font-bold">%97,34 yerli ve millî</span> imkânlarla üretilen siber fiziksel teknolojimizle çevre dostu bir altın anahtardır.
+                  Bu yola çıkış nedenimiz; basınçlı sulama sistemlerinin adeta yüzey sulama yapar gibi kullanılmasındaki sürdürülemez israftır. Bu gidişata dur diyebilmek için geliştirdiğimiz ürünlerimiz, <span className="text-primary font-bold">%93.12 yerli ve millî</span> imkânlarla üretilen siber fiziksel teknolojimizle çevre dostu bir altın anahtardır.
                 </p>
               </div>
             </motion.div>
